@@ -97,6 +97,11 @@ Ordered alphabetically. [Contributors statistics since 2015-08-20].
 | Paweł Bylica          | [@chfast](https://github.com/chfast)                         |     |
 | Philipp Andreas       | [@smurfy](https://github.com/smurfy)                         |     |
 | Stefan Oberhumer      | [@StefanOberhumer](https://github.com/StefanOberhumer)       |     |
+| For Blake3:           | (https://github.com/BLAKE3-team/BLAKE3)                      |     |
+| Jack O'Connor         | @oconnor663                                                  |     |
+| Samuel Neves)         | @sneves                                                      |     |
+| Jean-Philippe Aumasson | @veorq                                                      |     |
+| Zooko                  | @zookozcash                                                 |     |
 
 
 ## Contribute
